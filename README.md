@@ -10,7 +10,8 @@ integrating development and operations teams and minimizing errors and downtime.
 
 By doing so, it helps companies to respond quickly to changing market demands and deliver new features and updates to customers faster and more reliably. 
 
-  
+  ![image](https://user-images.githubusercontent.com/129948378/231516675-b5463f16-bd24-44b3-ad24-a2f27ca6d055.png)
+
 
 ### Why DevOps ? 
 
