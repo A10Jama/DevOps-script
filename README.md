@@ -91,4 +91,4 @@ Netflix - cloud computing to deliver its video content to millions of users arou
 
 ### How does cloud computing fit into DevOps? 
 
-Cloud computing offers a flexible and scalable infrastructure for the DevOps team to develop, test, and deploy applications and services. 
+Cloud computing offers a flexible and scalable infrastructure for the DevOps team to develop, test, and deploy applications and services.  
